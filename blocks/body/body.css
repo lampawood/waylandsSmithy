@@ -1,0 +1,8 @@
+.body {
+    background-image: url(../../images/Фон.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    font-family: 'Inter', 'Arial', sans-serif;
+    color: white;
+}

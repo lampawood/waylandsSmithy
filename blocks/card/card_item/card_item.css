@@ -1,0 +1,5 @@
+@import url(./card_item-img/card_item-img.css);
+.card_item {
+    height: 250px;
+    width: 250px;
+}

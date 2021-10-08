@@ -1,0 +1,5 @@
+    @import url(./footer_link/footer_link.css);
+    @import url(./footer_links/footer_links.css);
+    .footer {
+        background-color: rgba(0, 0, 0, 0.9);
+    }

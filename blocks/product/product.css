@@ -1,0 +1,11 @@
+@import url(./product-film/product-film.css);
+@import url(./product-other/product-other.css);
+.product {
+    margin: 0 auto;
+    display: grid;
+    max-width: 1184px;
+    grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
+    grid-template-rows: auto;
+    justify-items: center;
+    grid-gap: 16px;
+}

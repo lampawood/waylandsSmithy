@@ -1,0 +1,15 @@
+    .footer_links-container {
+        list-style-type: none;
+        margin: 0;
+        /*display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;*/
+        display: grid;
+        justify-self: center;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 10px;
+        padding-left: 29%;
+        width: 50%;
+    }

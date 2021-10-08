@@ -1,0 +1,10 @@
+@import url(./header_menu/header_menu.css);
+@import url(./header_img/header_img.css);
+.header{
+   /* background-image: url(../../images/Blank-YouTube-Banner-blacksmith_clear.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    width: 100%;
+    display: block;
+flex-direction: row;
+}

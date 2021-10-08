@@ -1,0 +1,7 @@
+@import url(./merch_container/merch_container.css);
+@import url(./merch_img/merch_img.css);
+@import url(./merch_name/merch_name.css);
+.merch {
+    width: 80%;
+    margin: 0 auto;
+}

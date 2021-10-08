@@ -1,0 +1,11 @@
+@import url(./gungnir-text/gungnir-text.css);
+@import url(./gungnir-text/gungnir-text_money/gungnir-text_money.css);
+.gungnir {
+    background-image: url(../../images/Гунгнир.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+}

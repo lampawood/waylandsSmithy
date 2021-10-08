@@ -1,0 +1,7 @@
+@import url(./card_item/card_item.css);
+@import url(./card_name/card_name.css);
+.card {
+    width: 250px;
+    height: 350px;
+    background-color: rgba(0, 0, 0, 0.6);
+}
